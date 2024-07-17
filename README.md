@@ -1,5 +1,5 @@
 # Sales_Effectiveness
-FicZon Inc.
+## FicZon Inc.
 # Project Summary
 # Requirement
 FicZon Inc is an IT solution provider with products ranging from on-premises products to SAS based solutions. FicZon major leads generation channel is digital and through their website.
